@@ -1,1 +1,13 @@
 .idea
+
+# 数据库文件
+/data/redis/
+/data/rabbitmq/
+/data/mysql/
+/data/mysql/
+
+#日志文件
+/logs/mysql/*.log
+/logs/nginx/*.log
+/logs/php-fpm/*.log
+/logs/redis/*.log
